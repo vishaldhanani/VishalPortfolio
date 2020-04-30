@@ -145,7 +145,7 @@
                                 <br />
                                 <div class="lx-g2-f lx-fr">
                                     <div class="lx-knowme-img">
-                                        <img src="images/VishhProfile.png" alt="Vishal Dhanani" />
+                                        <!-- <img src="images/VishhProfile.png" alt="Vishal Dhanani" />-->
                                     </div>
                                 </div>
                                 <div class="lx-g2-f">
